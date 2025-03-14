@@ -85,7 +85,7 @@ exclude:
 gems:
   - algoliasearch-jekyll
 
-########## UI text ###############
+########## UI text ##############
 
 
 uistring:
