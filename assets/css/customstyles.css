@@ -446,9 +446,9 @@ padding-bottom:0px;
 }
 
 img.navbar-logo {
-    max-width: 130px;
-    padding:0px;
-    padding-bottom: 5px;
+    max-width: 200%;
+    padding-bottom:5px;
+    margin-top: -10px;
 }
 .navbar-brand {
     margin-right: 30px;
