@@ -28,3 +28,5 @@ My first (and self-published) book. A collection of essays on productivity, self
 <br>
 [**The Wabi-Sabi Way**](https://www.amazon.com/Wabi-sabi-Way-Principles-Meaning-Authenticity/dp/1641528265)<br>
 A book about the lost art of being more accepting, and thus more effective. It’s a combination of a crash-course in Eastern thought and self-improvement book.
+
+Thanks for stopping by!
