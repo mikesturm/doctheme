@@ -1,21 +1,15 @@
-sidebarTitle: Generic sidebar
+sidebarTitle: Navigation
 owner: tomjohnson1492
 
 ## Keep this commented out content because it shows the YAML model for the sidebar.
 
 folders:
-- title: Theme documentation
+- title: Projects
   folderitems:
-  - title: Home
+  - title: The Today System
     url: /index.html
 
-  - title: Sample 1 really long title that will wrap
-    url: /sample1.html
-
-  - title: Sample 2 really long title that will wrap even longer
-    url: /sample2.html
-
-  - title: Sample 3
+  - title: GTD-GS
     url: /sample3.html
 
     subfolders:
@@ -44,7 +38,7 @@ folders:
           - title: Sub-sublevel 3
             url: /subsublevel3.html
 
-- title: Another folder level
+- title: Books
   folderitems:
   - title: Home
     url: /index.html
@@ -64,8 +58,8 @@ related_resources_title: Other Resources
 
 related_resources_list:
 
-- title: Jekyll
+- title: Me on Medium.com
   url: http://jekyllrb.com
 
-- title: Github
-  url: http://github.com
+- title: Podcast Apperances
+  url:
