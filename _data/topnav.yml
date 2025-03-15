@@ -9,12 +9,12 @@ navbar_singleitems:
 navbar_dropdowns:
 - folders:
 
-    - title: Products
+    - title: Producitivty Systems
       folderitems:
-        - title: Theme instructions
-          url: /mydoc_introduction.html
-        - title: Generic
-          url: /sample1.html
+        - title: The Today System
+          url: /todaysystem.html
+        - title: GTD-GS
+          url: /GTD-GS.html
     - title: Tags
       folderitems:
         - title: Getting started
