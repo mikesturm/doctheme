@@ -1,5 +1,5 @@
 sidebarTitle: Navigation
-owner: tomjohnson1492
+
 
 ## Keep this commented out content because it shows the YAML model for the sidebar.
 
@@ -12,51 +12,47 @@ folders:
   - title: GTD-GS
     url: /sample3.html
 
-    subfolders:
-    - title: Second level deep
-      subfolderitems:
+#    subfolders:
+#    - title: Second level deep
+  #    subfolderitems:
 
-      - title: Sublevel 1
-        url: /sublevel1.html
+  #    - title: Sublevel 1
+   #     url: /sublevel1.html
 
-      - title: Sublevel 2
-        url: /sublevel2.html
+   #   - title: Sublevel 2
+    #    url: /sublevel2.html
 
-      - title: Sublevel 3
-        url: /sublevel3.html
+   #   - title: Sublevel 3
+   #     url: /sublevel3.html
 
-        subsubfolders:
+   #     subsubfolders:
         - title: Third level deep
-          subsubfolderitems:
+    #      subsubfolderitems:
 
-          - title: Sub-sublevel 1
+     #     - title: Sub-sublevel 1
             url: /subsublevel1.html
 
-          - title: Sub-sublevel 2
+     #     - title: Sub-sublevel 2
             url: /subsublevel2.html
 
-          - title: Sub-sublevel 3
+     #     - title: Sub-sublevel 3
             url: /subsublevel3.html
 
 - title: Books
   folderitems:
-  - title: Home
-    url: /index.html
+  - title: Be, Think, Do
+    url: https://a.co/d/9xY5OfO
 
-  - title: Thing 1
-    url: /thing1.html
+  - title: The Wabi-Sabi Way
+    url: https://a.co/d/5LbwlYf
 
-  - title: Thing 2
-    url: /thing2.html
 
-  - title: Thing 3
-    url: /thing3.html
 
 ###########################
 
-related_resources_title: Other Resources
+# related_resources_title: Other
 
-related_resources_list:
+# related_resources_list:
 
 - title: Me on Medium.com
   url: http://jekyllrb.com
